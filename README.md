@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «voornaam» «familienaam»
- - «voornaam» «familienaam»
+ - Sarah Cocquyt
+ - Lisa Clauwers
 
 > Artevelde University College Ghent
 

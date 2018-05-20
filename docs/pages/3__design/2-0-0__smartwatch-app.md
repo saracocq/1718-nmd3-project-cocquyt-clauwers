@@ -6,3 +6,6 @@ published: true
 # ─────────────────────
 title: Smartwatch-app
 ---
+
+#### Research
+Wij besloten te werken met Apple watchOS Human Interface Guidelines. We kennen het gebruik en de technische mogelijkheden van dit toestel omdat we die besproken hebben in de Analyse.  

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+// Custom Variables
+//
+// Put variables overrides here.
+//
+// See _vendor/bootstrap/scss/_variables.scss
+
+//
+// Color system
+//
+
+$cyan:    #17a2b8 !default;
+$primary: $cyan;
+
+// Fonts
+//
+// Font, line-height, and color for body text, headings, and more.
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+$font-family-base: Merriweather, serif;

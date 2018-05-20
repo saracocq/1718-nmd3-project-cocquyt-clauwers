@@ -1,0 +1,119 @@
+# ╔══════════════════════════════════════════════╗
+# ║ Code indentation is important in YAML files! ║
+# ╚══════════════════════════════════════════════╝
+#
+# title       : title in navigation
+# relative_url: permalink of the page
+# children    : subpages
+-
+  title: Discover
+  # permalink: discover/
+  children:
+    -
+      title: Briefing
+      permalink: discover/briefing/
+-
+  title: Define
+  # permalink: define/
+  children:
+    -
+      title: Planning
+      permalink: define/planning/
+    -
+      title: Analyse
+      permalink: define/analyse/
+    -
+      title: Technische Analyse
+      permalink: define/technische-analyse/
+    -
+      title: Journey Maps
+      permalink: define/journey-maps/
+    -
+      title: Concept
+      permalink: define/concept/
+    -
+      title: Ideaboard
+      permalink: define/ideaboard/
+-
+  title: Design
+  # permalink: design/
+  children:
+    -
+      title: Style Tiles
+      permalink: design/style-tiles/
+    -
+      title: Smartwatch-app
+      permalink: design/smartwatch-app/
+      children:
+        -
+          title: Wireflow
+          permalink: design/smartwatch-app/wireflow/
+        -
+          title: Gebruikerstests
+          permalink: design/smartwatch-app/gebruikerstests/
+        -
+          title: Screen Designs
+          permalink: design/smartwatch-app/screen-designs/
+    -
+      title: Smartphone-app
+      permalink: design/smartphone-app/
+      children:
+        -
+          title: Wireflow
+          permalink: design/smartphone-app/wireflow/
+        -
+          title: Gebruikerstests
+          permalink: design/smartphone-app/gebruikerstests/
+        -
+          title: Screen Designs
+          permalink: design/smartphone-app/screen-designs/
+    -
+      title: Website
+      permalink: design/website/
+      children:
+        -
+          title: Sitemap
+          permalink: design/website/sitemap/
+        -
+          title: Wireframes
+          permalink: design/website/wireframes/
+        -
+          title: Screen Designs
+          permalink: design/website/screen-designs/
+    -
+      title: UI Style Guide
+      permalink: design/ui-style-guide/
+      children:
+        -
+          title: Typografie
+          permalink: design/ui-style-guide/typografie/
+        -
+          title: Kleuren
+          permalink: design/ui-style-guide/kleuren/
+        -
+          title: Knoppen
+          permalink: design/ui-style-guide/knoppen/
+        -
+          title: Formulieren
+          permalink: design/ui-style-guide/formulieren/
+# -
+#   title: Develop
+#   # permalink: develop/
+#   children:
+-
+  title: Deliver
+  # permalink: deliver/
+  children:
+    -
+      title: Timesheets
+      # permalink: deliver/timesheets/
+      children:
+        -
+          title: Student 1
+          permalink: deliver/timesheets/student-1/
+        -
+          title: Student 2
+          permalink: deliver/timesheets/student-2/
+# -
+#   title: Deploy
+#   # permalink: deploy/

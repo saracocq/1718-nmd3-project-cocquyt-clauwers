@@ -1,0 +1,28 @@
+# ╔═══════════╗
+# ║ Student 1 ║
+# ╚═══════════╝
+# Tijd in kwartieren (0.25 uur)
+-
+  time: 0.25
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 0.5
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 0.75
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 1
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 1.25
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 1.5
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 1.75
+  task: Lorem ipsum sit dolor amet.
+-
+  time: 100
+  task: Lorem ipsum sit dolor amet.

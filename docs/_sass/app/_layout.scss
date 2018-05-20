@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.gdm-wrapper {
+  display: flex;
+}
+
+.gdm-nav,
+.gdm-view {
+  height: 100vh;
+}
+
+.gdm-nav {
+  flex: 1 0 250px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.gdm-view {
+  flex: 2 1 66%;
+}

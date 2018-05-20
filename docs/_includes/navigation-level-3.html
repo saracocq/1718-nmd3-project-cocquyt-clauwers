@@ -1,0 +1,7 @@
+{%- for nav_item in include.nav_items %}
+    {%- if nav_item.permalink %}
+    <a class="nav-link gdm-nav-level-3" href="{{ nav_item.permalink | relative_url }}" target="view">{{ nav_item.title }}</a>
+    {%- else %}
+    <a class="nav-link gdm-nav-level-3 disabled" href="#">{{ nav_item.title }}</a>
+    {%- endif %}
+{%- endfor %}

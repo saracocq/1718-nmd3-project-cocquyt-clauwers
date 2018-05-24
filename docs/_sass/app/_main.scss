@@ -15,22 +15,164 @@ h1, h2, h3, h4, h5, h6 {
 p, li, table { 
   font-family: 'Open Sans', sans-serif;
 }
-  
+
+ul { 
+  list-style-type: square;
+}
+
+li { 
+  margin-bottom: 3px;
+}
+
+.styletile { 
+  margin-bottom: 80px;
+}
+
+
 h1 {
-    margin-bottom: 50px;
-    margin-top: 50px;
-    color: #61B775;
-    text-transform: uppercase;
+  margin-bottom: 80px;
+  margin-top: 50px;
+  color: white;
+  text-transform: uppercase;
+  padding-left: 18px;
+  padding-right: 18px;
+  display: inline-block;
+  background-color: #61B775;
   }
 
-h4 { 
-  margin-top: 40px;
-}
+  h6 { 
+    margin-top: 40px;
+  }
+
 
 h5 { 
   margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+h4 { 
+  margin-bottom: 40px;
+  margin-top: 40px;
 }
 
 h2 { 
   margin-top: 90px;
+}
+
+.mim { 
+  margin: 10px;
+}
+
+.persona {
+  font-family: 'Montserrat';
+}
+
+.persona2 {
+  margin-top: 15px;
+  font-family: 'Montserrat';
+}
+
+.grijs { 
+  background-color: #f7f7f7;
+  padding: 40px;
+}
+
+.grijs2 { 
+  background-color: #f7f7f7;
+  padding: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+.font { 
+  font-family: 'Montserrat';
+  font-size: 100px;
+}
+
+.font3 { 
+  
+  font-size: 20px;
+}
+
+.font4 { 
+  font-family: 'Montserrat';
+  font-size: 20px;
+}
+
+.font5 { 
+  font-family: 'Montserrat';
+  font-size: 20px;
+}
+
+
+
+
+
+.blue{background-color:#405EA9;}
+.green{background-color:#61B775;}
+.grey{background-color:#262D3E;}
+.black{background-color: #000000;}
+.wit{background-color: #FFFFFF;}
+
+.container3 { 
+  border: black;
+  display: inline-block;
+  margin: 5px;
+  border-radius: 9px;
+  height: 200px;
+  width: 900px;
+}
+
+.container2 {
+  display: inline-block;
+  margin: 5px;
+  border-radius: 9px;
+  height: 200px;
+  width: 900px;
+}
+
+.bottom { 
+  font-family: 'Montserrat';
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+.wit {
+  font-family: 'Montserrat';
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+
+
+
+
+body {
+  .galery {
+    margin-bottom: 80px;
+    display: grid;
+    grid-gap: 12px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-rows: repeat(1, 1fr);
+      .item {
+        transition: opacity 0.5s ease;
+        opacity: .7;
+        img{
+          width:100%;
+          height: 100%;
+          object-fit: cover;
+        }
+        &:hover{
+          opacity: 1
+        }
+      }
+    }
+ }
+
+
+.persona { 
+  text-transform: uppercase;
 }

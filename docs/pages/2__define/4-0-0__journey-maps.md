@@ -10,6 +10,39 @@ title: Journey Maps
 #### 1. Journey map 1
 ##### 1.1 Lens 
 
+<div class="grijs">
+<div class="row">
+    <div class="col-sm-6">
+        <img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/oma.jpg" width="98%"/>
+    </div>
+    <div class="col-sm-6">
+    <p class="persona"> SOCIAAL </p>
+        <div class="progress">
+            <div class="progress-bar w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+            </div>
+        </div>
+    <p class="persona2"> ZORGZAAM </p>
+        <div class="progress">
+            <div class="progress-bar w-75" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+            </div>
+        </div>
+    <p class="persona2"> INTELLIGENT </p>
+        <div class="progress">
+            <div class="progress-bar w-75" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+            </div>
+        </div>
+    <p class="persona2"> ZELFSTANDIG </p>
+        <div class="progress">
+            <div class="progress-bar w-100" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
 ###### Demografisch
 Fabienne Van den Berghe (70) is weduwe en fiere oma van Julien (10) en Camille (8). Ze woont in Jette en spreekt graag af met haar vriendinnen voor een koffie. Sinds ze op pensioen is, heeft ze veel tijd. Die tijd spendeert ze graag met haar kleinkinderen. Ze neemt hen mee naar speeltuinen, concerten en ook musea. 
 
@@ -53,6 +86,38 @@ Fabienne en haar kleinkinderen komen op een woensdagnamiddag het MIM in Brussel 
 #### 2. Journey map 2
 ##### 2.1 Lens 
 
+<div class="grijs">
+<div class="row">
+    <div class="col-sm-6">
+        <img src="/1718-nmd3-project-cocquyt-clauwers/assets/img/cello.jpg" width="98%"/>
+    </div>
+    <div class="col-sm-6">
+    <p class="persona"> LEERGIERIG </p>
+        <div class="progress">
+            <div class="progress-bar w-50" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+            </div>
+        </div>
+    <p class="persona2"> SPONTAAN </p>
+        <div class="progress">
+            <div class="progress-bar w-75" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">
+            </div>
+        </div>
+    <p class="persona2"> INTELLIGENT </p>
+        <div class="progress">
+            <div class="progress-bar w-25" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">
+            </div>
+        </div>
+    <p class="persona2"> ZELFSTANDIG </p>
+        <div class="progress">
+            <div class="progress-bar w-50" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
 ###### Demografisch
 Eva Elias (21) studeert musicologie aan de KU Leuven. Eva is houdt zich dagelijks vol passie bezig met muziek. Naast haar richting is ze ook aanwezig op allerlei concerten en evenement om op de hoogte te blijven van nieuwe opkomende trends, genres, groepen en dergelijke. Maar naast nieuwe ontdekkingen houdt ze zich ook bezig met de muziekgeschiedenis en alles wat er reeds op de markt is verschenen.
 
@@ -91,3 +156,5 @@ Eva moet een nieuw werkstuk schrijven voor het vak ‘Geschiedenis en analyse va
 | Concertzaal     |      | Indien hij niet te betreden is door het gewone volk, of enkel tijdens evenementen of concerten, had dit duidelijker vermeld mogen zijn.     |
 | Uitgang     | Door een duidelijk aanduiding van de weg wordt het bezoek vergemakkelijkt.      |      |
 {:.table}
+
+
